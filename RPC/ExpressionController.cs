@@ -4,6 +4,11 @@ using System.Text;
 
 namespace RPC
 {
+    /// <summary>
+    /// This class analyzes an expression typed into the 
+    /// calculator, performs the calculations and returns
+    /// the result to the caller
+    /// </summary>
     public class ExpressionController : IExpressionController
     {
         #region Data members
@@ -14,7 +19,6 @@ namespace RPC
         private string[] tokens; 
 
         #endregion
-
 
         #region Implementation of IExpressionController property
 
@@ -27,7 +31,6 @@ namespace RPC
         }
 
         #endregion
-
 
         #region Constructor
 
