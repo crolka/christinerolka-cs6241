@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RPC.RPCForm.resources
+obj\Debug\RPC.Properties.Resources.resources
+obj\Debug\RPC.csproj.GenerateResource.Cache
+bin\Debug\RPC.exe
+bin\Debug\RPC.pdb
+obj\Debug\RPC.exe
+obj\Debug\RPC.pdb
+bin\Debug\RPC.exe.config
