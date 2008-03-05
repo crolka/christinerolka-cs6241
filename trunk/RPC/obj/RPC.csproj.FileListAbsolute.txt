@@ -24,3 +24,12 @@ E:\Courses\SoftwareDevelopmentI\AssignmentVI\myRPC\RPC\obj\Debug\ResolveAssembly
 E:\Courses\SoftwareDevelopmentI\AssignmentVI\myRPC\RPC\obj\Debug\RPC.RpcForm.resources
 E:\Courses\SoftwareDevelopmentI\AssignmentVI\myRPC\RPC\obj\Debug\RPC.Properties.Resources.resources
 E:\Courses\SoftwareDevelopmentI\AssignmentVI\myRPC\RPC\obj\Debug\RPC.csproj.GenerateResource.Cache
+E:\Courses\SoftwareDevelopmentI\AssignmentVII\GoogleRPC\RPC\bin\Debug\RPC.exe.config
+E:\Courses\SoftwareDevelopmentI\AssignmentVII\GoogleRPC\RPC\obj\Debug\RPC.exe
+E:\Courses\SoftwareDevelopmentI\AssignmentVII\GoogleRPC\RPC\obj\Debug\RPC.pdb
+E:\Courses\SoftwareDevelopmentI\AssignmentVII\GoogleRPC\RPC\bin\Debug\RPC.exe
+E:\Courses\SoftwareDevelopmentI\AssignmentVII\GoogleRPC\RPC\bin\Debug\RPC.pdb
+E:\Courses\SoftwareDevelopmentI\AssignmentVII\GoogleRPC\RPC\obj\Debug\ResolveAssemblyReference.cache
+E:\Courses\SoftwareDevelopmentI\AssignmentVII\GoogleRPC\RPC\obj\Debug\RPC.RpcForm.resources
+E:\Courses\SoftwareDevelopmentI\AssignmentVII\GoogleRPC\RPC\obj\Debug\RPC.Properties.Resources.resources
+E:\Courses\SoftwareDevelopmentI\AssignmentVII\GoogleRPC\RPC\obj\Debug\RPC.csproj.GenerateResource.Cache
